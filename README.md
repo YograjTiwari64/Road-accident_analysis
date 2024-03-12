@@ -13,3 +13,5 @@ By leveraging advanced analytics and interactive visualizations, our dashboard e
 🔍 Conduct detailed analyses by factors such as time of day, weather conditions, and more.
 💡 Gain valuable insights to inform policy decisions, improve infrastructure, and enhance road safety initiatives.
 🌐 Benchmark accident rates across different regions and cities.
+link given below for road accident dataset
+https://drive.google.com/drive/folders/1W-yCVVXz4DE3jjLfUZlEn_zqyTy71zlV?usp=sharing
